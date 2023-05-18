@@ -1,0 +1,5 @@
+head,tail,relation,Relationship
+动力电池组,汽车电子,coordinate,能源-控制
+电机,电控,coordinate,动力-控制
+汽车电子,整车制造,coordinate,控制-制造
+电控,整车制造,coordinate,控制-制造
