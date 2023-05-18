@@ -1,2 +1,12 @@
-# Designing-And-Developing-for-GIS
-A professional required course for the major of geographic information science. The course content is mainly for the development of WebGIS. The reference book is the development guide for ArcGIS API for JavaScript.
+建立知识图谱，在jupyter notebook中运行该文件夹中的文件建立知识图谱。
+
+维度表、事实表提取，该文件夹下的文件为建立维度表、事实表所需代码。
+1.运行exec_bi.bat启动知识图谱、前端服务、360浏览器
+
+2.在pycharm终端输入python manage.py runserver
+
+打开360浏览器页面，如未出现页面，等待前端启动完成，刷新页面即可，
+
+首先看到的是登陆页面，点击注册进入注册页面进行注册，之后使用注册的账号进行登录。
+
+在左侧导航栏选择搜索竞争对手，在新页面中输入要查找的公司，点击查找，之后会在知识图谱中搜索该公司的竞争对手，在下方的输入框中输入竞争对手公司名，点击查找，即可进行公司详细信息的对比，之后点击可视化页面，即可进入可视化大屏查看对比图表，在大屏中可以切换维度进行不同维度的对比。
